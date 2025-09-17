@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "4883b5aff876f340",
+    "type": "split",
+    "children": [
+      {
+        "id": "b08709736c2dfd26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ec7999123cdde45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Inbox/Essay Writing Guide by Jordan Peterson.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3ee516ee2bb9ddf1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c14aad89ec1cb92e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "bee42751d98813b0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "3e1c3cdd2ce8388a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "1ec9b75e401467d5",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "702b584bf9a48ba3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8fc17ba552a38ff1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "0 Inbox/Essay Writing Guide by Jordan Peterson.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "daa7aaf085aa5fdd",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "0 Inbox/Essay Writing Guide by Jordan Peterson.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e6e6e6fb1a000060",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "0 Inbox/Essay Writing Guide by Jordan Peterson.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "1ec7999123cdde45",
+  "lastOpenFiles": [
+    "0 Inbox/Book Recommandation.md",
+    "Zettlecasten/Bloom's Taxonomy - Cognitive Domain.md",
+    "Zettlecasten/Benefits of writing essay.md",
+    "0 Inbox/Asdawd.md",
+    "0 Inbox/2024-11-07.md",
+    "templates/Projet Template.md",
+    "Mini-essays/Nail the Basics first or dive into Experience.md",
+    "templates/Note.md",
+    "Zettlecasten",
+    "0 Inbox/Untitled 4.md",
+    "Mini-essays",
+    "0 Inbox/Obsidian The king of learning tools.md",
+    "0 Inbox/Obsidian Idea for Improvement.md",
+    "Pasted image 20240817233750.png",
+    "0 Inbox/Untitled 3.md",
+    "0 Inbox/Untitled.md",
+    "0 Inbox/Untitled 2.md",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 1.md",
+    "Untitled 2.canvas",
+    "templates/Time Blocking.md",
+    "2024-08-17.md",
+    "0 Inbox/Screenshot_2024-08-09-22-42-15-382_org.coursera.android.png",
+    "Untitled 1.canvas",
+    "0 Inbox/Essay Writing Guide by Jordan Peterson.md",
+    "Untitled.md",
+    "2024-08-10.md",
+    "0 Inbox/Project manager team collaboration.md",
+    "0 Inbox/Screenshot_2024-08-09-22-36-31-871_org.coursera.android 1.png",
+    "0 Inbox/Project Manager responsibilities.md",
+    "0 Inbox/Screenshot_2024-08-09-22-44-09-153_org.coursera.android.png",
+    "0 Inbox/Screenshot_2024-08-09-23-00-30-162_org.coursera.android 1.png",
+    "0 Inbox/Project Manager responsibilites.md",
+    "0 Inbox/Screenshot_2024-08-09-23-00-30-162_org.coursera.android.png",
+    "0 Inbox/Screenshot_2024-08-09-22-36-31-871_org.coursera.android.png",
+    "0 Inbox/Untitled 1.md",
+    "0 Inbox/Foundation of Project Management.md",
+    "0 Inbox/Project Initiation.md",
+    "Untitled.canvas",
+    "0 Inbox/Pasted image 20240807212008.png",
+    "3 Resources/Input/Coursera",
+    "3 Resources/Input/Udemy",
+    "3 Resources/Input/YouTube",
+    "3 Resources/Output",
+    "3 Resources/Input",
+    "0 Inbox/Pasted image 20240807211930.png",
+    "0 Inbox",
+    "1 Projects/Google Associate Cloud Engineer",
+    "2 Areas"
+  ]
+}

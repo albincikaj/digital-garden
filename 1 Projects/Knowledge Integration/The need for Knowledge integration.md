@@ -1,0 +1,1 @@
+Imagine if we had many resources that we wanted to integrate to our current business or workflows. Just like in supply chain, data, finance and many others we can utilize different chat bots that are pretrained and have be fine tuned or are using RAG systems to be able to solve different processes onto our system.
