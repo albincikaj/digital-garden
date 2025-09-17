@@ -4,291 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "cc16b003a3df5879",
+        "id": "eefb1d2cdd57b584",
         "type": "tabs",
         "children": [
           {
-            "id": "3803ee7140be2072",
+            "id": "42740db6db2f4bfd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Areas/Area Template.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Area Template"
-            }
-          },
-          {
-            "id": "5646b68aee5c5530",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 Inbox/The need for studying Data Science.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The need for studying Data Science"
-            }
-          },
-          {
-            "id": "d40ae679fb451b23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 Inbox/Obsidian Idea for Improvement.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Obsidian Idea for Improvement"
-            }
-          },
-          {
-            "id": "7a4d1c13ec527fc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Struggles of being Head of Data.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Struggles of being Head of Data"
-            }
-          },
-          {
-            "id": "7f7d2c973e43f8e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Note"
-            }
-          },
-          {
-            "id": "436fa73bdb245143",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Projects/91life/HL7v2 to FHIR converter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HL7v2 to FHIR converter"
-            }
-          },
-          {
-            "id": "13b91e1cd90781b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Projects/91life/Data Acquisition Refactoring.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Data Acquisition Refactoring"
-            }
-          },
-          {
-            "id": "85587a578e7208a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 Inbox/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "f52a6165e74f279a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Projects/91life/Modern Data Stack.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Modern Data Stack"
-            }
-          },
-          {
-            "id": "b503ca2a8093b667",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Projects/91life/Machine Learning Platform.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Machine Learning Platform"
-            }
-          },
-          {
-            "id": "ad6eb17ec22517f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Projects/91life/Infrastructure Refactoring for remote patient monitoring.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Infrastructure Refactoring for remote patient monitoring"
-            }
-          },
-          {
-            "id": "70ffc54af7032328",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Projects/91life/KPI development.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "KPI development"
-            }
-          },
-          {
-            "id": "9c5ab20516ff984c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Projects/PW/KPI Development.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "KPI Development"
-            }
-          },
-          {
-            "id": "a9b95e5740056f1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Projects/91life/Data Analytics department creation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Data Analytics department creation"
-            }
-          },
-          {
-            "id": "cb309b34ea3c853a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Projects/91life/Modern Data Stack.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Modern Data Stack"
-            }
-          },
-          {
-            "id": "04c88d5fd2eaa526",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Projects/91life/Dashboard Creation with Superset.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dashboard Creation with Superset"
-            }
-          },
-          {
-            "id": "dc41558ec2e83f1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Projects/PW/Dashboard Creation with Metabase.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dashboard Creation with Metabase"
-            }
-          },
-          {
-            "id": "7adeba603e272bac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Projects/91life/Data Warehouse Creation and management with BigQuery.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Data Warehouse Creation and management with BigQuery"
-            }
-          },
-          {
-            "id": "170bf7eb78f51ea5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Projects/91life/Data Cataloging with Google Dataplex, OpenMetadata.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Data Cataloging with Google Dataplex, OpenMetadata"
-            }
-          },
-          {
-            "id": "71ca0ef60862b98c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Projects/91life/Data Mesh Architecture initiation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Data Mesh Architecture initiation"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 19
+        ]
       }
     ],
     "direction": "vertical"
@@ -437,39 +166,39 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "71ca0ef60862b98c",
+  "active": "42740db6db2f4bfd",
   "lastOpenFiles": [
-    "1 Projects/91life/Data Cataloging with Google Dataplex, OpenMetadata.md",
     "1 Projects/91life/Data Mesh Architecture initiation.md",
+    "1 Projects/91life/Data Cataloging with Google Dataplex, OpenMetadata.md",
     "1 Projects/91life/Data Warehouse Creation and management with BigQuery.md",
     "1 Projects/PW/Dashboard Creation with Metabase.md",
     "1 Projects/91life/Dashboard Creation with Superset.md",
     "1 Projects/91life/Modern Data Stack.md",
-    "1 Projects/91life/Infrastructure Refactoring for remote patient monitoring.md",
-    "1 Projects/91life/Machine Learning Platform.md",
-    "1 Projects/91life/Data Acquisition Refactoring.md",
-    "1 Projects/91life/HL7v2 to FHIR converter.md",
-    "1 Projects/91life/Data Architecture Initiation.md",
     "1 Projects/91life/Data Analytics department creation.md",
     "1 Projects/PW/KPI Development.md",
     "1 Projects/91life/KPI development.md",
+    "1 Projects/91life/Infrastructure Refactoring for remote patient monitoring.md",
+    "1 Projects/91life/Machine Learning Platform.md",
+    "0 Inbox/Untitled.md",
+    "1 Projects/91life/Data Acquisition Refactoring.md",
+    "1 Projects/91life/HL7v2 to FHIR converter.md",
+    "templates/Note.md",
+    "Struggles of being Head of Data.md",
+    "0 Inbox/Obsidian Idea for Improvement.md",
+    "0 Inbox/The need for studying Data Science.md",
+    "2 Areas/Area Template.md",
+    "1 Projects/91life/Data Architecture Initiation.md",
     "1 Projects/PW/Untitled.md",
     "1 Projects/PW",
-    "0 Inbox/Untitled.md",
     "1 Projects/91life",
-    "templates/Note.md",
     "templates/Projet Template.md",
     "templates/Time Blocking.md",
     "0 Inbox/Essay Writing Guide by Jordan Peterson.md",
-    "0 Inbox/The need for studying Data Science.md",
     "0 Inbox/The best learning tool in History - 400 years ahead of its time!.md",
     "0 Inbox/Screenshot_2024-08-09-23-00-30-162_org.coursera.android.png",
     "0 Inbox/Screenshot_2024-08-09-22-44-09-153_org.coursera.android.png",
     "0 Inbox/Screenshot_2024-08-09-22-36-31-871_org.coursera.android.png",
     "0 Inbox/Retrieval Practice.md",
-    "0 Inbox/Project manager team collaboration.md",
-    "0 Inbox/Project Manager responsibilites.md",
-    "0 Inbox/Project Manager responsibilities.md",
     "0 Inbox/Pasted image 20240807212008.png",
     "0 Inbox/Screenshot_2024-08-09-22-42-15-382_org.coursera.android.png",
     "Untitled 1.canvas",
