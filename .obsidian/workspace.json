@@ -4,20 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "eefb1d2cdd57b584",
+        "id": "6f1bb01a4afcb309",
         "type": "tabs",
         "children": [
           {
-            "id": "42740db6db2f4bfd",
+            "id": "e03138b552809335",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
+            }
+          },
+          {
+            "id": "95f58ce4ad39f35e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Areas/Area Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Area Template"
+            }
+          },
+          {
+            "id": "75201dd6500e43b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Areas/Speaking/Talos of Communication.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Talos of Communication"
+            }
+          },
+          {
+            "id": "7eb71ba80e4a940b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Areas/Speaking/Telos of Communication - Exercise 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Telos of Communication - Exercise 1"
+            }
+          },
+          {
+            "id": "b9019dc8d442c723",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Note"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,53 +227,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "42740db6db2f4bfd",
+  "active": "789c2b827fcfa7ab",
   "lastOpenFiles": [
-    "1 Projects/91life/Data Mesh Architecture initiation.md",
-    "1 Projects/91life/Data Cataloging with Google Dataplex, OpenMetadata.md",
-    "1 Projects/91life/Data Warehouse Creation and management with BigQuery.md",
-    "1 Projects/PW/Dashboard Creation with Metabase.md",
-    "1 Projects/91life/Dashboard Creation with Superset.md",
-    "1 Projects/91life/Modern Data Stack.md",
-    "1 Projects/91life/Data Analytics department creation.md",
-    "1 Projects/PW/KPI Development.md",
-    "1 Projects/91life/KPI development.md",
-    "1 Projects/91life/Infrastructure Refactoring for remote patient monitoring.md",
-    "1 Projects/91life/Machine Learning Platform.md",
-    "0 Inbox/Untitled.md",
-    "1 Projects/91life/Data Acquisition Refactoring.md",
-    "1 Projects/91life/HL7v2 to FHIR converter.md",
+    "3 Resources/Toefl/Study+Schedules,+TEC.pdf",
+    "3 Resources/Toefl/Unconfirmed 671654.crdownload",
+    "3 Resources/Toefl/TOEFL+Speaking+26+,+Templates+and+Strategies+(1).pdf",
+    "3 Resources/Toefl/TST+Prep+-+Time+Management+-+TOEFL+Reading.pdf",
+    "3 Resources/Toefl/Unconfirmed 413868.crdownload",
+    "3 Resources/Toefl/Unconfirmed 141551.crdownload",
+    "3 Resources/Toefl/TOEFL+Writing+24++Guide,+Everything+You+Need+to+Know+to+Write+a+Perfect+Essay+(4).pdf",
+    "3 Resources/Toefl/Unconfirmed 531603.crdownload",
+    "3 Resources/Toefl/The+Ultimate+TOEFL+Vocabulary+List.pdf",
+    "3 Resources/Toefl/Unconfirmed 254745.crdownload",
+    "3 Resources/Toefl/Essential+Word+Parts+List,+03.19,+TEC.pdf",
+    "2 Areas/Speaking/Talos of Communication.md",
+    "2 Areas/Speaking/Telos of Communication - Exercise 1.md",
     "templates/Note.md",
-    "Struggles of being Head of Data.md",
-    "0 Inbox/Obsidian Idea for Improvement.md",
-    "0 Inbox/The need for studying Data Science.md",
     "2 Areas/Area Template.md",
-    "1 Projects/91life/Data Architecture Initiation.md",
-    "1 Projects/PW/Untitled.md",
-    "1 Projects/PW",
-    "1 Projects/91life",
+    "Mini-essays/Nail the Basics first or dive into Experience.md",
+    "Zettlecasten/Bloom's Taxonomy - Cognitive Domain.md",
+    "Zettlecasten/Benefits of writing essay.md",
+    "0 Inbox/Untitled.md",
+    "README.md",
+    "Struggles of being Head of Data.md",
+    "templates/Note 1.md",
+    "0 Inbox/2025-10-15.md",
     "templates/Projet Template.md",
+    "0 Inbox/Untitled 2.md",
+    "2 Areas/Project Management/Project Initiation.md",
+    "2 Areas/Learning concepts/Obsidian The king of learning tools.md",
+    "2 Areas/Learning concepts/Obsidian Idea for Improvement.md",
+    "2 Areas/Project Management/Foundation of Project Management.md",
     "templates/Time Blocking.md",
-    "0 Inbox/Essay Writing Guide by Jordan Peterson.md",
-    "0 Inbox/The best learning tool in History - 400 years ahead of its time!.md",
+    "4 Archive/PW/Dashboard Creation with Metabase.md",
+    "4 Archive/PW/KPI Development.md",
+    "4 Archive/91life/Dashboard Creation with Superset.md",
+    "4 Archive/91life/Data Acquisition Refactoring.md",
+    "2 Areas/Essay Writing/Essay Writing Guide by Jordan Peterson.md",
+    "2 Areas/Learning concepts/The need for studying Data Science.md",
     "0 Inbox/Screenshot_2024-08-09-23-00-30-162_org.coursera.android.png",
-    "0 Inbox/Screenshot_2024-08-09-22-44-09-153_org.coursera.android.png",
     "0 Inbox/Screenshot_2024-08-09-22-36-31-871_org.coursera.android.png",
-    "0 Inbox/Retrieval Practice.md",
     "0 Inbox/Pasted image 20240807212008.png",
+    "0 Inbox/Screenshot_2024-08-09-22-44-09-153_org.coursera.android.png",
     "0 Inbox/Screenshot_2024-08-09-22-42-15-382_org.coursera.android.png",
     "Untitled 1.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Pasted image 20240817233750.png",
-    "0 Inbox/Screenshot_2024-08-09-23-00-30-162_org.coursera.android 1.png",
-    "2 Areas/Essay Writing",
-    "3 Resources/Google Associate Cloud Engineer/CloudSkillBoost/T-GCPACE-m1-l7-en-file-11.en.pdf",
-    "3 Resources/Google Associate Cloud Engineer/CloudSkillBoost/T-GCPACE-m0-l6-en-file-6.en.pdf",
-    "3 Resources/Google Associate Cloud Engineer/Udemy/desktop.ini",
-    "3 Resources/Google Associate Cloud Engineer/desktop.ini",
-    "templates/desktop.ini",
-    "4 Archive/desktop.ini",
-    "templates"
+    "0 Inbox/Screenshot_2024-08-09-23-00-30-162_org.coursera.android 1.png"
   ]
 }

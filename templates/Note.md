@@ -1,7 +1,7 @@
 ---
 tags:
   - essay
-Links:
+Type:
 Date: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 source:
 ---
